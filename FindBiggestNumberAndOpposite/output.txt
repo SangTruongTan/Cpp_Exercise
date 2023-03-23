@@ -1,3 +1,3 @@
 3
 1
-Time taken:0.0001850000s
+Time taken:0.0001380000s
